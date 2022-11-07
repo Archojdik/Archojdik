@@ -1,2 +1,2 @@
 - Hi, I’m @Archoj
-- Archoj is lazy
+- Currently I'm finding myself.

@@ -1,2 +1,1 @@
-- Hi, I’m @Archoj
-- Currently I'm finding myself.
+- Hi, I’m Archojdik!

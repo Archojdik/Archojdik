@@ -1,1 +1,2 @@
 - Hi, I’m Archojdik!
+- Programming mainly on C#
